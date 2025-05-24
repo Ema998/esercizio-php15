@@ -45,4 +45,9 @@ class Rettangolo {
     }
 }
 
+$forma = new Rettangolo;
+$forma->area();
+$forma->perimetro();
+$forma->diagonale();
+
 ?>
