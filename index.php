@@ -46,8 +46,8 @@ class Rettangolo {
 }
 
 $forma = new Rettangolo(4, 8);
-echo "area" . $forma->area()
-echo "perimetro" . $forma->perimetro()
-echo "diagonale" . $forma->diagonale()
+echo "area" . $forma->area();
+echo "perimetro" . $forma->perimetro();
+echo "diagonale" . $forma->diagonale();
 
 ?>
